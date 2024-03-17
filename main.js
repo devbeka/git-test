@@ -8,3 +8,7 @@ name('beka')
 const name = 'beka'
 const location = 'bish'
 const lal = 'lal'
+
+const getMap = () => {
+  console.log('map');
+}
