@@ -6,3 +6,4 @@ function name (name) {
 name('beka')
 
 const name = 'beka'
+const location = 'bish'
