@@ -4,3 +4,5 @@ function name (name) {
 }
 
 name('beka')
+
+console.log('hahahaha');
