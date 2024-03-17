@@ -4,3 +4,8 @@ function name (name) {
 }
 
 name('beka')
+
+
+const age = 21
+const nextAge = 22
+let git = 'github'
